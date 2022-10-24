@@ -3,7 +3,6 @@ public class Flower {
     private String country;
     private float cost;
     int lifeSpan;
-
     public Flower(String flowerColor, String country, float cost, int lifeSpan) {
         if (flowerColor == null) {
             this.flowerColor = "белый";

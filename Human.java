@@ -36,5 +36,4 @@ public class Human {
     public void informationOgHuman () {
         System.out.println("Привет! Меня зовут " + name + ". Я из города " + cityOfLife + ". Я родился (ась) в " + age + " году. Я работаю на должности " + position + ". Будем знакомы!");
     }
-
 }
